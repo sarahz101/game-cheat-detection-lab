@@ -37,4 +37,4 @@ The baseline catches every blatant cheater but only 40% of subtle ones. The Isol
 - Explain *why* a player was flagged.
 
 ## Reference
-Alayed, H., Frangoudes, F., & Neuman, C. (2013). Behavioral-based cheating detection in online first person shooters using machine learning techniques. *2013 IEEE Conference on Computational Intelligence in Games (CIG)*, 1-8.
+Alayed, H., Frangoudes, F. and Neuman, C. (2013) ‘Behavioral-based cheating detection in online first person shooters using machine learning techniques’, in *2013 IEEE Conference on Computational Intelligence in Games (CIG)*. Niagara Falls, ON: IEEE, pp. 1–8. doi: 10.1109/CIG.2013.6633617.
